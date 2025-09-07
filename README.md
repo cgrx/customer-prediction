@@ -27,11 +27,9 @@ uv sync
 ```shell
 uv run jupyter notebook
 ```
-This is start a jupyter server and open the notebook interface in your default web browser.
-
+- This command will start a jupyter server and open the interface in your default web browser.
 - Index of notebooks:
   - `eda.ipynb`: Exploratory Data Analysis on the customer dataset.
-
 - You can run the cells in the notebooks sequentially to see the analysis and results.
 
 ## Note
