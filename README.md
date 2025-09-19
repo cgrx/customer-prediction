@@ -30,6 +30,7 @@ uv run jupyter notebook
 - This command will start a jupyter server and open the interface in your default web browser.
 - Index of notebooks:
   - `eda.ipynb`: Exploratory Data Analysis on the customer dataset.
+  - `feature.ipynb`: Data wrangling and feature engineering.
 - You can run the cells in the notebooks sequentially to see the analysis and results.
 
 ## Note
