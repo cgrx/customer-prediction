@@ -31,6 +31,7 @@ uv run jupyter notebook
 - Index of notebooks:
   - `eda.ipynb`: Exploratory Data Analysis on the customer dataset.
   - `feature.ipynb`: Data wrangling and feature engineering.
+  - `model.ipynb`: Model training and evaluation.
 - You can run the cells in the notebooks sequentially to see the analysis and results.
 
 ## Note
