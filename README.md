@@ -44,3 +44,8 @@ uv run jupyter notebook
 ## Note
 - Ensure you have a stable internet connection to download any required packages.
 - After closing the browser, you can stop the jupyter server by pressing `Ctrl + C` in the terminal where it is running.
+
+## Acknowledgements
+- [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/overview)
+- [K-Prototypes - Customer Clustering with Mixed Data Types](https://antonsruberts.github.io/kproto-audience/)
+- [Elbow Method - Yellowbrick](https://www.scikit-yb.org/en/latest/api/cluster/elbow.html)
