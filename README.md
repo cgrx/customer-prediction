@@ -3,6 +3,13 @@
 ## About
 Materials used during workshop on customer prediction.
 
+## System
+- Operating System : Ubuntu 24.04 LTS
+- Physical Cores : 8
+- Logical Processors : 16
+- RAM : 16 GB
+- Disk Space : 128 GB
+
 ## Setup
 - Install `uv` for project management. 
 ```shell
